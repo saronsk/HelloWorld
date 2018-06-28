@@ -4,6 +4,8 @@
 int main(void){
 
   int a=10;
-  printf(a+ " hello world");
+  int b=12;
+  int c =a+b;
+  printf(c+ " hello world");
 
 }
